@@ -1,1 +1,65 @@
-# Commands
+# WoLua Custom Command List
+
+Auto-generated list of available custom WoLua commands.
+
+- **___pycache__**
+- **_armbinder**
+- **_barsuspension**
+- **_beach**
+- **_bikini**
+- **_blindfold**
+- **_bondage**
+- **_bound**
+- **_bun**
+- **_bunny**
+- **_castigationpole**
+- **_chainedandslumped**
+- **_christmas**
+- **_clear**
+- **_clearsettings**
+- **_comfy**
+- **_cross**
+- **_cute**
+- **_domme**
+- **_dress** _(Type: outfit)_: Applies your favorite glamour outfit.
+- **_gag**
+- **_gibbet**
+- **_goth**
+- **_groundshackles**
+- **_harem**
+- **_hogtie**
+- **_hooked**
+- **_hookedagain**
+- **_invertedsuspension**
+- **_latex**
+- **_leather**
+- **_lingerie**
+- **_magicalgirl**
+- **_maid**
+- **_naked**
+- **_nude**
+- **_pet**
+- **_petsuit**
+- **_pillory**
+- **_reset** _(Type: utility)_
+- **_ribbon**
+- **_ribbons**
+- **_rope**
+- **_santa**
+- **_scaffold**
+- **_scavengersdaughter**
+- **_sexy**
+- **_shackled**
+- **_signpost**
+- **_spreadpostsv2**
+- **_spreadwallsuspension**
+- **_squattingpole**
+- **_strip**
+- **_tape**
+- **_test**
+- **_tied**
+- **_unblindfold**
+- **_ungag**
+- **_wallshackles**
+- **_woodenhorse**
+- **_wristsuspension**
