@@ -21,7 +21,7 @@ Auto-generated list of available custom WoLua commands.
 - **_cross**
 - **_cute**
 - **_domme**
-- **_dress** _(Type: outfit)_: Applies your favorite glamour outfit.
+- **_dress** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_gag**
 - **_gibbet**
 - **_goth**
@@ -38,10 +38,11 @@ Auto-generated list of available custom WoLua commands.
 - **_maid**
 - **_naked**
 - **_nude**
+- **_onebarprison**
 - **_pet**
 - **_petsuit**
 - **_pillory**
-- **_reset** _(Type: utility)_
+- **_reset** _(Type: Utility)_
 - **_ribbon**
 - **_ribbons**
 - **_rope**
