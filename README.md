@@ -42,7 +42,7 @@ Auto-generated list of available custom WoLua commands.
 - **_pet**
 - **_petsuit**
 - **_pillory**
-- **_reset** _(Type: Utility)_
+- **_reset** _(Type: Utility)_: Resets temporary settings and strips character
 - **_ribbon**
 - **_ribbons**
 - **_rope**
