@@ -63,4 +63,4 @@ Auto-generated list of available custom WoLua commands.
 - **_ungag**
 - **_wallshackles**
 - **_woodenhorse**
-- **_wristsuspension**
+- **_wristsuspension** _(Type: Amborella Pose)_: Summons your mount.
