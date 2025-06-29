@@ -3,64 +3,64 @@
 Auto-generated list of available custom WoLua commands.
 
 - **___pycache__**
-- **_armbinder**
-- **_barsuspension**
-- **_beach**
+- **_armbinder** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_barsuspension** _(Type: Amborella Pose)_: Applies a specific Amborella pose
+- **_beach** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_bikini**
-- **_blindfold**
-- **_bondage**
-- **_bound**
-- **_bun**
-- **_bunny**
-- **_castigationpole**
-- **_chainedandslumped**
-- **_christmas**
+- **_blindfold** _(Type: Glamouritem)_: Applies a single Glamourer Item
+- **_bondage** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_bound** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_bun** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_bunny** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_castigationpole** _(Type: Amborella Pose)_
+- **_chainedandslumped** _(Type: Amborella Pose)_
+- **_christmas** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_clear**
 - **_clearsettings**
-- **_comfy**
-- **_cross**
-- **_cute**
-- **_domme**
+- **_comfy** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_cross** _(Type: Amborella Pose)_
+- **_cute** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_domme** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_dress** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_gag**
-- **_gibbet**
-- **_goth**
-- **_groundshackles**
-- **_harem**
-- **_hogtie**
-- **_hooked**
-- **_hookedagain**
-- **_invertedsuspension**
-- **_latex**
-- **_leather**
-- **_lingerie**
-- **_magicalgirl**
-- **_maid**
-- **_naked**
-- **_nude**
-- **_onebarprison**
-- **_pet**
-- **_petsuit**
-- **_pillory**
+- **_gag** _(Type: Glamouritem)_: Applies a single Glamourer Item
+- **_gibbet** _(Type: Amborella Pose)_
+- **_goth** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_groundshackles** _(Type: Amborella Pose)_
+- **_harem** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_hogtie** _(Type: Animation)_: Applies a Glamourer set and performs an animation.
+- **_hooked** _(Type: Amborella Pose)_
+- **_hookedagain** _(Type: Amborella Pose)_
+- **_invertedsuspension** _(Type: Amborella Pose)_
+- **_latex** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_leather** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_lingerie** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_magicalgirl** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_maid** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_naked** _(Type: Utility)_: Resets temporary settings and strips character
+- **_nude** _(Type: Utility)_: Resets temporary settings and strips character
+- **_onebarprison** _(Type: Amborella Pose)_
+- **_pet** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_petsuit** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_pillory** _(Type: Amborella Pose)_
 - **_reset** _(Type: Utility)_: Resets temporary settings and strips character
-- **_ribbon**
-- **_ribbons**
-- **_rope**
-- **_santa**
-- **_scaffold**
-- **_scavengersdaughter**
+- **_ribbon** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_ribbons** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_rope** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_santa** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_scaffold** _(Type: Amborella Pose)_
+- **_scavengersdaughter** _(Type: Amborella Pose)_
 - **_sexy**
 - **_shackled**
-- **_signpost**
+- **_signpost** _(Type: Amborella Pose)_
 - **_spreadpostsv2**
 - **_spreadwallsuspension**
-- **_squattingpole**
-- **_strip**
+- **_squattingpole** _(Type: Amborella Pose)_
+- **_strip** _(Type: Utility)_: Resets temporary settings and strips character
 - **_tape**
 - **_test**
 - **_tied**
 - **_unblindfold**
 - **_ungag**
-- **_wallshackles**
-- **_woodenhorse**
-- **_wristsuspension** _(Type: Amborella Pose)_: Applies a specific Amborella pose
+- **_wallshackles** _(Type: Amborella Pose)_
+- **_woodenhorse** _(Type: Amborella Pose)_
+- **_wristsuspension** _(Type: Amborella Pose)_
