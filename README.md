@@ -6,7 +6,7 @@ Auto-generated list of available custom WoLua commands.
 - **_armbinder** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_barsuspension** _(Type: Amborella Pose)_: Applies a specific Amborella pose
 - **_beach** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_bikini**
+- **_bikini** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_blindfold** _(Type: Glamouritem)_: Applies a single Glamourer Item
 - **_bondage** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_bound** _(Type: Glamourset)_: Applies a full Glamourer Set
@@ -15,8 +15,8 @@ Auto-generated list of available custom WoLua commands.
 - **_castigationpole** _(Type: Amborella Pose)_
 - **_chainedandslumped** _(Type: Amborella Pose)_
 - **_christmas** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_clear**
-- **_clearsettings**
+- **_clear** _(Type: Utility)_: Resets temporary settings and strips character
+- **_clearsettings** _(Type: Utility)_: Resets temporary settings and strips character
 - **_comfy** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_cross** _(Type: Amborella Pose)_
 - **_cute** _(Type: Glamourset)_: Applies a full Glamourer Set
@@ -49,18 +49,18 @@ Auto-generated list of available custom WoLua commands.
 - **_santa** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_scaffold** _(Type: Amborella Pose)_
 - **_scavengersdaughter** _(Type: Amborella Pose)_
-- **_sexy**
-- **_shackled**
+- **_sexy** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_shackled** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_signpost** _(Type: Amborella Pose)_
-- **_spreadpostsv2**
-- **_spreadwallsuspension**
+- **_spreadpostsv2** _(Type: Amborella Pose)_
+- **_spreadwallsuspension** _(Type: Amborella Pose)_
 - **_squattingpole** _(Type: Amborella Pose)_
 - **_strip** _(Type: Utility)_: Resets temporary settings and strips character
-- **_tape**
+- **_tape** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_test**
-- **_tied**
-- **_unblindfold**
-- **_ungag**
+- **_tied** _(Type: Glamourset)_: Applies a full Glamourer Set
+- **_unblindfold** _(Type: Glamouritem)_: Removes a single Glamourer Item
+- **_ungag** _(Type: Glamouritem)_: Removes a single Glamourer Item
 - **_wallshackles** _(Type: Amborella Pose)_
 - **_woodenhorse** _(Type: Amborella Pose)_
 - **_wristsuspension** _(Type: Amborella Pose)_
