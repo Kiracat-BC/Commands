@@ -3,6 +3,7 @@
 Auto-generated list of available custom WoLua commands.
 
 ## Amborella Pose
+Applies a full Glamourer Set including the Mod Association and then puts the Kitty into a specific position. The Amborella Poses can be found here: https://www.xivmodarchive.com/user/587548
 
 - **_barsuspension**: Applies a specific Amborella pose
 - **_castigationpole**
@@ -26,10 +27,12 @@ Auto-generated list of available custom WoLua commands.
 - **_wristsuspension**
 
 ## Animation
+Applies a full Glamourer Set including the Mod Association and then puts the Kitty into a specific position
 
 - **_hogtie**: Applies a Glamourer set and performs an animation.
 
 ## Glamouritem
+Applies a single Glamourer Item. This will be added on top of the current Set so it can always be used
 
 - **_blindfold**: Applies a single Glamourer Item
 - **_gag**: Applies a single Glamourer Item
@@ -37,6 +40,7 @@ Auto-generated list of available custom WoLua commands.
 - **_ungag**: Removes a single Glamourer Item
 
 ## Glamourset
+Applies a full Glamourer Set including the Mod Association
 
 - **_armbinder**: Applies a full Glamourer Set
 - **_beach**: Applies a full Glamourer Set
@@ -69,6 +73,7 @@ Auto-generated list of available custom WoLua commands.
 - **_tied**: Applies a full Glamourer Set
 
 ## Utility
+Various helpful or utility commands
 
 - **_clear**: Resets temporary settings and strips character
 - **_clearsettings**: Resets temporary settings and strips character
