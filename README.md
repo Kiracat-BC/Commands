@@ -2,65 +2,83 @@
 
 Auto-generated list of available custom WoLua commands.
 
+## Amborella Pose
+
+- **_barsuspension**: Applies a specific Amborella pose
+- **_castigationpole**
+- **_chainedandslumped**
+- **_cross**
+- **_gibbet**
+- **_groundshackles**
+- **_hooked**
+- **_hookedagain**
+- **_invertedsuspension**
+- **_onebarprison**
+- **_pillory**
+- **_scaffold**
+- **_scavengersdaughter**
+- **_signpost**
+- **_spreadpostsv2**
+- **_spreadwallsuspension**
+- **_squattingpole**
+- **_wallshackles**
+- **_woodenhorse**
+- **_wristsuspension**
+
+## Animation
+
+- **_hogtie**: Applies a Glamourer set and performs an animation.
+
+## Glamouritem
+
+- **_blindfold**: Applies a single Glamourer Item
+- **_gag**: Applies a single Glamourer Item
+- **_unblindfold**: Removes a single Glamourer Item
+- **_ungag**: Removes a single Glamourer Item
+
+## Glamourset
+
+- **_armbinder**: Applies a full Glamourer Set
+- **_beach**: Applies a full Glamourer Set
+- **_bikini**: Applies a full Glamourer Set
+- **_bondage**: Applies a full Glamourer Set
+- **_bound**: Applies a full Glamourer Set
+- **_bun**: Applies a full Glamourer Set
+- **_bunny**: Applies a full Glamourer Set
+- **_christmas**: Applies a full Glamourer Set
+- **_comfy**: Applies a full Glamourer Set
+- **_cute**: Applies a full Glamourer Set
+- **_domme**: Applies a full Glamourer Set
+- **_dress**: Applies a full Glamourer Set
+- **_goth**: Applies a full Glamourer Set
+- **_harem**: Applies a full Glamourer Set
+- **_latex**: Applies a full Glamourer Set
+- **_leather**: Applies a full Glamourer Set
+- **_lingerie**: Applies a full Glamourer Set
+- **_magicalgirl**: Applies a full Glamourer Set
+- **_maid**: Applies a full Glamourer Set
+- **_pet**: Applies a full Glamourer Set
+- **_petsuit**: Applies a full Glamourer Set
+- **_ribbon**: Applies a full Glamourer Set
+- **_ribbons**: Applies a full Glamourer Set
+- **_rope**: Applies a full Glamourer Set
+- **_santa**: Applies a full Glamourer Set
+- **_sexy**: Applies a full Glamourer Set
+- **_shackled**: Applies a full Glamourer Set
+- **_tape**: Applies a full Glamourer Set
+- **_tied**: Applies a full Glamourer Set
+
+## Other
+
 - **___pycache__**
-- **_armbinder** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_barsuspension** _(Type: Amborella Pose)_: Applies a specific Amborella pose
-- **_beach** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_bikini** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_blindfold** _(Type: Glamouritem)_: Applies a single Glamourer Item
-- **_bondage** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_bound** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_bun** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_bunny** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_castigationpole** _(Type: Amborella Pose)_
-- **_chainedandslumped** _(Type: Amborella Pose)_
-- **_christmas** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_clear** _(Type: Utility)_: Resets temporary settings and strips character
-- **_clearsettings** _(Type: Utility)_: Resets temporary settings and strips character
-- **_comfy** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_cross** _(Type: Amborella Pose)_
-- **_cute** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_domme** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_dress** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_gag** _(Type: Glamouritem)_: Applies a single Glamourer Item
-- **_gibbet** _(Type: Amborella Pose)_
-- **_goth** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_groundshackles** _(Type: Amborella Pose)_
-- **_harem** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_hogtie** _(Type: Animation)_: Applies a Glamourer set and performs an animation.
-- **_hooked** _(Type: Amborella Pose)_
-- **_hookedagain** _(Type: Amborella Pose)_
-- **_invertedsuspension** _(Type: Amborella Pose)_
-- **_latex** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_leather** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_lingerie** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_magicalgirl** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_maid** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_naked** _(Type: Utility)_: Resets temporary settings and strips character
-- **_nude** _(Type: Utility)_: Resets temporary settings and strips character
-- **_onebarprison** _(Type: Amborella Pose)_
-- **_pet** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_petsuit** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_pillory** _(Type: Amborella Pose)_
-- **_reset** _(Type: Utility)_: Resets temporary settings and strips character
-- **_ribbon** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_ribbons** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_rope** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_santa** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_scaffold** _(Type: Amborella Pose)_
-- **_scavengersdaughter** _(Type: Amborella Pose)_
-- **_sexy** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_shackled** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_signpost** _(Type: Amborella Pose)_
-- **_spreadpostsv2** _(Type: Amborella Pose)_
-- **_spreadwallsuspension** _(Type: Amborella Pose)_
-- **_squattingpole** _(Type: Amborella Pose)_
-- **_strip** _(Type: Utility)_: Resets temporary settings and strips character
-- **_tape** _(Type: Glamourset)_: Applies a full Glamourer Set
 - **_test**
-- **_tied** _(Type: Glamourset)_: Applies a full Glamourer Set
-- **_unblindfold** _(Type: Glamouritem)_: Removes a single Glamourer Item
-- **_ungag** _(Type: Glamouritem)_: Removes a single Glamourer Item
-- **_wallshackles** _(Type: Amborella Pose)_
-- **_woodenhorse** _(Type: Amborella Pose)_
-- **_wristsuspension** _(Type: Amborella Pose)_
+
+## Utility
+
+- **_clear**: Resets temporary settings and strips character
+- **_clearsettings**: Resets temporary settings and strips character
+- **_naked**: Resets temporary settings and strips character
+- **_nude**: Resets temporary settings and strips character
+- **_reset**: Resets temporary settings and strips character
+- **_strip**: Resets temporary settings and strips character
+
