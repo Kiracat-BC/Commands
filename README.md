@@ -5,7 +5,7 @@ Auto-generated list of available custom WoLua commands.
 ## Amborella Pose
 Applies a full Glamourer Set including the Mod Association and then puts the Kitty into a specific position. The Amborella Poses can be found here: https://www.xivmodarchive.com/user/587548
 
-- **_barsuspension**: Applies a specific Amborella pose
+- **_barsuspension**
 - **_castigationpole**
 - **_chainedandslumped**
 - **_cross**
@@ -42,35 +42,35 @@ Applies a single Glamourer Item. This will be added on top of the current Set so
 ## Glamourset
 Applies a full Glamourer Set including the Mod Association
 
-- **_armbinder**: Applies a full Glamourer Set
-- **_beach**: Applies a full Glamourer Set
-- **_bikini**: Applies a full Glamourer Set
-- **_bondage**: Applies a full Glamourer Set
-- **_bound**: Applies a full Glamourer Set
-- **_bun**: Applies a full Glamourer Set
-- **_bunny**: Applies a full Glamourer Set
-- **_christmas**: Applies a full Glamourer Set
-- **_comfy**: Applies a full Glamourer Set
-- **_cute**: Applies a full Glamourer Set
-- **_domme**: Applies a full Glamourer Set
-- **_dress**: Applies a full Glamourer Set
-- **_goth**: Applies a full Glamourer Set
-- **_harem**: Applies a full Glamourer Set
-- **_latex**: Applies a full Glamourer Set
-- **_leather**: Applies a full Glamourer Set
-- **_lingerie**: Applies a full Glamourer Set
-- **_magicalgirl**: Applies a full Glamourer Set
-- **_maid**: Applies a full Glamourer Set
-- **_pet**: Applies a full Glamourer Set
-- **_petsuit**: Applies a full Glamourer Set
-- **_ribbon**: Applies a full Glamourer Set
-- **_ribbons**: Applies a full Glamourer Set
-- **_rope**: Applies a full Glamourer Set
-- **_santa**: Applies a full Glamourer Set
-- **_sexy**: Applies a full Glamourer Set
-- **_shackled**: Applies a full Glamourer Set
-- **_tape**: Applies a full Glamourer Set
-- **_tied**: Applies a full Glamourer Set
+- **_armbinder**
+- **_beach**
+- **_bikini**
+- **_bondage**
+- **_bound**
+- **_bun**
+- **_bunny**
+- **_christmas**
+- **_comfy**
+- **_cute**
+- **_domme**
+- **_dress**
+- **_goth**
+- **_harem**
+- **_latex**
+- **_leather**
+- **_lingerie**
+- **_magicalgirl**
+- **_maid**
+- **_pet**
+- **_petsuit**
+- **_ribbon**
+- **_ribbons**
+- **_rope**
+- **_santa**
+- **_sexy**
+- **_shackled**
+- **_tape**
+- **_tied**
 
 ## Utility
 Various helpful or utility commands
