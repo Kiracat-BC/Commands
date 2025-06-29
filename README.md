@@ -29,7 +29,7 @@ Applies a full Glamourer Set including the Mod Association and then puts the Kit
 ## Animation
 Applies a full Glamourer Set including the Mod Association and then puts the Kitty into a specific position
 
-- **_hogtie**: Applies a Glamourer set and performs an animation.
+- **_hogtie**
 
 ## Glamouritem
 Applies a single Glamourer Item. This will be added on top of the current Set so it can always be used
