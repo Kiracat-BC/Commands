@@ -68,11 +68,6 @@ Auto-generated list of available custom WoLua commands.
 - **_tape**: Applies a full Glamourer Set
 - **_tied**: Applies a full Glamourer Set
 
-## Other
-
-- **___pycache__**
-- **_test**
-
 ## Utility
 
 - **_clear**: Resets temporary settings and strips character
